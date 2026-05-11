@@ -1,1 +1,1 @@
-worker: python zyphor_bot_v2.py
+worker: python zyphor_bot.py
